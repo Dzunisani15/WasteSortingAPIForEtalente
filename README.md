@@ -1,4 +1,4 @@
-run the WasteSortingApiApplication.java to start the API and use
+run the ****WasteSortingApiApplication.java**** to start the API and use
 
 use the following url for waste category http://localhost:8080/api/waste-categories
 
